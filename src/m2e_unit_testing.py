@@ -10,10 +10,12 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 # Students: READ the comment FARTHER DOWN in this file.
 #   There is nothing for you to turn in from this file.
 #
-# TODO #1:
-# This file is the first file in project to use rosegraphics, so you need to right click
+# DONE 1
+# This file is the first file in project to use rosegraphics, so you need to
+# right click
 # on the src folder and select Mark Directory as --> Sources Root
-# When you do that watch the red underline on rosegraphic disappear (you may need
+# When you do that watch the red underline on rosegraphic disappear
+# (you may need
 # to expand the line below to see the import rosegraphics as rg statement).
 # ----------------------------------------------------------------------
 
@@ -63,7 +65,8 @@ def distance(point):
 
 
 # ----------------------------------------------------------------------
-# In most exercises we will follow the  UNIT TESTING that the above code illustrates.
+# In most exercises we will follow the  UNIT TESTING that the above code
+# illustrates.
 #
 # Look at the  DISTANCE  function defined above.  It is the function
 # that we want to test.  Read its doc-string.
@@ -125,6 +128,10 @@ def distance(point):
 # We are teaching you practices that scale up, so we demand that most
 # of the functions that you write from here on RETURN a value instead
 # of PRINTing it.
+#
+#
+# Test 2 failed while test 1 and 3 did not.
+#
 # ----------------------------------------------------------------------
 
 
