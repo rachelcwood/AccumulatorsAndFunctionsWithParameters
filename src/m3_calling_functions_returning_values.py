@@ -28,9 +28,10 @@ def main():
     #    -- If your code fails any of OUR tests but passes YOUR tests,
     #         then you are likely not TESTING the methods correctly.
     #       ** Ask a TA or your professor for help in that case. **
+    #
     # ------------------------------------------------------------------
 
-    # m3t_tester.main()
+    m3t_tester.main()
 
 
 def run_test_sum_of_digits():
@@ -199,7 +200,6 @@ def digits_in_cube(n):
     # Can be modified to include negative integers
 
 
-
 def run_test_digits_in_power():
     """ Tests the   digits_in_power   function. """
     # ------------------------------------------------------------------
@@ -335,7 +335,7 @@ def fancy_sums_of_digits(n):
     a = sum_of_digits(n**1000)
     b = sum_of_digits(n**999)
     c = sum_of_digits(a**b)
-    return(c)
+    return c
 
 
 # ----------------------------------------------------------------------
