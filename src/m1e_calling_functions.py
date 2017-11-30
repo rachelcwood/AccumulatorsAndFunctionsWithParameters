@@ -73,5 +73,22 @@ def hello_and_goodbye():
 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
+#
+# Should print:
+#
+# Hello!  How are things?
+# Goodbye!
+#    Ciao!
+#    Bai bai!
+# Hello!  How are things?
+# Hello!  How are things?
+#---------------------------------------------')
+# The remaining output comes from CALLING
+# the  hello_and_goodbye  FUNCTION.
+# ---------------------------------------------
+# Hello!  How are things?
+# Goodbye!
+#    Ciao!
+#    Bai bai!
 # ----------------------------------------------------------------------
 main()
