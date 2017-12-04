@@ -121,7 +121,7 @@ def sum_powers_in_range(m, n, p):
       -- sum_powers_in_range(3, 100, 0.1) returns about 142.384776
     """
     # ------------------------------------------------------------------
-    # DONE 5
+    # DONE 5.
     #  Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #
